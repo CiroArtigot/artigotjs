@@ -8,5 +8,5 @@ export default async function Page() {
 
   console.log(posts)
 
-  return <h1>Hello, Home page!</h1>
+  return <h1>Hello, another page!</h1>
 } 
